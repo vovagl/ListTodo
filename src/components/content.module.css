@@ -1,0 +1,40 @@
+.main {
+    width: 100%;
+    /*border-collapse: collapse;*/
+    /*border-spacing: 5px 10px;*/
+    /*table-layout: fixed;*/
+}
+
+.title {
+    width: 100%;
+
+}
+
+tr {
+    border-top: 1px solid #cfc7d3;
+    width: 100%;
+
+}
+
+th {
+
+    width: auto;
+
+}
+
+td {
+    padding: 5px 10px;
+    vertical-align: middle;
+    border-top: 1px solid #afa9b3;
+}
+
+img {
+    vertical-align: middle;
+}
+
+
+
+
+span {
+    color: #000;
+}
