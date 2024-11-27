@@ -1,25 +1,16 @@
-.main {
-    width: 100%;
-    /*border-collapse: collapse;*/
-    /*border-spacing: 5px 10px;*/
-    /*table-layout: fixed;*/
-}
-
 .title {
     width: 100%;
 
 }
 
 tr {
-    border-top: 1px solid #cfc7d3;
     width: 100%;
-
 }
 
 th {
-
+    padding: 5px 10px;
     width: auto;
-
+    text-align: start;
 }
 
 td {
@@ -32,6 +23,9 @@ img {
     vertical-align: middle;
 }
 
+button {
+    cursor: pointer;
+}
 
 
 

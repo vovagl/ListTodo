@@ -5,6 +5,7 @@
     padding-left: 10px;
     background: url(../../public/img.icons8.png) no-repeat 100px;
     background-size: 15px;
+    cursor: pointer;
 }
 
 .search {
@@ -33,32 +34,40 @@ input {
 }
 
 
-p {
+.p {
     font-family: 'Lucida Sans';
-
-
     height: 30px;
     font-size: 15px;
     padding-left: 10px;
-    background-color: #c4ebfd;
+    background-color: blue;
+    color: white;
+    padding-top: 5px;
+    cursor: pointer;
+}
 
+.white {
+    background-color: white;
+    color: #000;
+    font-family: 'Lucida Sans';
+    height: 30px;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-top: 5px;
+    cursor: pointer;
 }
 
 .color {
     border: 1px solid #1b1a1a;
     margin-left: 20px;
-    /*position: fixed;
-    width: 130px;*/
-
+    width: 130px;
+    position: absolute;
 
 }
 
 .block {
     display: block;
-
 }
 
 img {
     width: 25px;
-
 }
