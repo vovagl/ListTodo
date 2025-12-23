@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ListTodo/static/css/main.e29828d8.css",
+    "main.js": "/ListTodo/static/js/main.6cc3e436.js",
+    "static/js/488.ef1c6d45.chunk.js": "/ListTodo/static/js/488.ef1c6d45.chunk.js",
+    "index.html": "/ListTodo/index.html",
+    "static/media/4801315_glass_magnifier_magnifying_search_searching_icon.svg": "/ListTodo/static/media/4801315_glass_magnifier_magnifying_search_searching_icon.ffefa1f35260b86ecc9b.svg",
+    "main.e29828d8.css.map": "/ListTodo/static/css/main.e29828d8.css.map",
+    "main.6cc3e436.js.map": "/ListTodo/static/js/main.6cc3e436.js.map",
+    "488.ef1c6d45.chunk.js.map": "/ListTodo/static/js/488.ef1c6d45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e29828d8.css",
+    "static/js/main.6cc3e436.js"
+  ]
+}
